@@ -1,5 +1,6 @@
 ## Profile
 [![Twitter: ________Sui__](https://img.shields.io/twitter/follow/________Sui__?style=social)](https://x.com/________Sui__)
+
 <p align="left">
   <a href="https://github.com/oooo-o0">
     <img height="20" src="https://oooo-o0.com/ghpvc/?username=oooo-o0" />
@@ -44,9 +45,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oooo-o0&show_icons=true)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oooo-o0&theme=gruvbox&utcOffset=9)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oooo-o0&theme=vue)
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=oooo-o0&theme=gruvbox)
 
