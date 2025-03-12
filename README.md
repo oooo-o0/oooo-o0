@@ -38,7 +38,8 @@
     <img height="20" src="https://img.shields.io/github/followers/Keichan15?label=follow&logo=github&style=flat" />
   </a>
 </p>
-## GitHub Stats
+## GitHub Stats<br>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oooo-o0&theme=vue)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oooo-o0&show_icons=true)
