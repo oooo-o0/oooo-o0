@@ -1,6 +1,5 @@
 ## Profile
 
-
 <p align="left">
   <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
@@ -31,15 +30,21 @@
 
 
 [![Twitter: ________Sui__](https://img.shields.io/twitter/follow/________Sui__?style=social)](https://x.com/________Sui__)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=oooo-o0&left_color=gray&right_color=blue)
-
+<p align="left">
+  <a href="https://github.com/Keichan15">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Keichan15" />
+  </a>
+  <a href="https://github.com/Keichan15">
+    <img height="20" src="https://img.shields.io/github/followers/Keichan15?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+## GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oooo-o0&theme=vue)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oooo-o0&show_icons=true)
 
-## Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooo-o0&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-表示している内容について
+
 
 <!--
 **oooo-o0/oooo-o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
