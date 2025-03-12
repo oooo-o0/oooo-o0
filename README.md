@@ -40,12 +40,15 @@
 </picture>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oooo-o0&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooo-o0&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oooo-o0&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooo-o0&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oooo-o0&theme=gruvbox&utcOffset=9)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oooo-o0&theme=vue)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=oooo-o0&theme=gruvbox)
 
 <!--
 **oooo-o0/oooo-o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
