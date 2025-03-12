@@ -1,4 +1,15 @@
 ## Profile
+[![Twitter: ________Sui__](https://img.shields.io/twitter/follow/________Sui__?style=social)](https://x.com/________Sui__)
+<p align="left">
+  <a href="https://github.com/oooo-o0">
+    <img height="20" src="https://oooo-o0.com/ghpvc/?username=oooo-o0" />
+  </a>
+  <a href="https://github.com/oooo-o0">
+    <img height="20" src="https://img.shields.io/github/followers/oooo-o0?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
+## GitHub Stats
 
 <p align="left">
   <picture>
@@ -27,19 +38,6 @@
   <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/oooo-o0/oooo-o0/output-3d-contrib/day.svg" />
 </picture>
-
-
-[![Twitter: ________Sui__](https://img.shields.io/twitter/follow/________Sui__?style=social)](https://x.com/________Sui__)
-<p align="left">
-  <a href="https://github.com/oooo-o0">
-    <img height="20" src="https://oooo-o0.com/ghpvc/?username=oooo-o0" />
-  </a>
-  <a href="https://github.com/oooo-o0">
-    <img height="20" src="https://img.shields.io/github/followers/oooo-o0?label=follow&logo=github&style=flat" />
-  </a>
-</p>
-
-## GitHub Stats
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oooo-o0&theme=vue)
