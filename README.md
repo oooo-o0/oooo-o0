@@ -12,7 +12,7 @@
 </h3>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
   <a style="margin-left: 10px;"  target="_blank" href="https://x.com/________Sui__">
-    <img src="./images/x.png" width="40" height="40"></a>
+    <img src="./images/Xcom.png" width="40" height="40"></a>
   <a style="margin-left: 10px;"  target="_blank" href="https://sui-o0.notion.site/Code-Snippets-89b3e6f8333c414bba9abb57943d5f84?pvs=4">
     <img src="./images/Notion.png" width="40" height="40"></a>
  </div>
