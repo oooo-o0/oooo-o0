@@ -24,24 +24,18 @@
 	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/oooo-o0/oooo-o0/output-3d-contrib/day.svg" />
 	</picture>
-</p>　
+</p>
 
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-  <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
- <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/oooo-o0/oooo-o0/output-3d-contrib/day.svg" />
-</picture>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooo-o0&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oooo-o0&show_icons=true)
-
+<p align="left >
+<img alt="github languages" 
+src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=oooo-o0&color=white&pie=false"/>
+<img alt="github stats"
+src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=oooo-o0&color=white"/>
+</p>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oooo-o0&theme=vue)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=oooo-o0&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=oooo-o0)
 
 <!--
 **oooo-o0/oooo-o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
