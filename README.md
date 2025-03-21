@@ -26,13 +26,12 @@
 	</picture>
 </p>
 
-<p align="left >
+<p align="left" >
 <img alt="github languages" 
 src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=oooo-o0&color=white&pie=false"/>
 <img alt="github stats"
 src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=oooo-o0&color=white"/>
 </p>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oooo-o0&theme=vue)
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=oooo-o0)
