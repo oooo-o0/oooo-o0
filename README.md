@@ -1,7 +1,32 @@
-## Profile
-[![Twitter: ________Sui__](https://img.shields.io/twitter/follow/________Sui__?style=social)](https://x.com/________Sui__)
+<p align="left" >
+<img alt="github languages" 
+src="https://github-readme-stats.vercel.app/api?username=oooo-o0&show_icons=true"/>
+<img alt="github stats"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=oooo-o0"/>
+</p>
 
+<h1 align="center">
+  Hi 👋 I'm Sui 🫧
+</h1>
 
+<p align="center">
+  <img src="./images/demo-avatar.png" alt="sui image" width="100" height="100">
+</p>
+<p align="center">
+<h3 align="center" >
+  My Accounte 🔗 
+</h3>
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+  <a style="margin-left: 10px;"  target="_blank" href="https://x.com/________Sui__">
+    <img src="./images/X.jpg" width="40" height="40"></a>
+  <a style="margin-left: 10px;"  target="_blank" href="https://sui-o0.notion.site/Code-Snippets-89b3e6f8333c414bba9abb57943d5f84?pvs=4">
+    <img src="./images/Notion-logo.svg.png" width="40" height="40"></a>
+ </div>
+</p>
+
+- プログラミングや設計が楽しすぎて毎日寝不足の日々.
+
+- 個人ブログに学習内容を投稿中.
 
 ## GitHub Stats
 
@@ -26,12 +51,7 @@
 	</picture>
 </p>
 
-<p align="left" >
-<img alt="github languages" 
-src="https://github-readme-stats.vercel.app/api?username=oooo-o0&show_icons=true"/>
-<img alt="github stats"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=oooo-o0"/>
-</p>
+
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=oooo-o0)
