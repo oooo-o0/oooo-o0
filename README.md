@@ -12,9 +12,9 @@
 </h3>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
   <a style="margin-left: 10px;"  target="_blank" href="https://x.com/________Sui__">
-    <img src="./images/X.jpg" width="40" height="40"></a>
+    <img src="./images/X.png" width="40" height="40"></a>
   <a style="margin-left: 10px;"  target="_blank" href="https://sui-o0.notion.site/Code-Snippets-89b3e6f8333c414bba9abb57943d5f84?pvs=4">
-    <img src="./images/Notion-logo.svg.png" width="40" height="40"></a>
+    <img src="./images/Notion.png" width="40" height="40"></a>
  </div>
 </p>
 
@@ -23,12 +23,6 @@
 - 個人ブログに学習内容を投稿中.
 
 ## GitHub Stats
-<p align="left" >
-<img alt="github languages" 
-src="https://github-readme-stats.vercel.app/api?username=oooo-o0&show_icons=true"/>
-<img alt="github stats"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=oooo-o0"/>
-</p>
 
 <p align="left">
   <picture>
@@ -51,6 +45,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=oooo-o0"/>
 	</picture>
 </p>
 
+<p align="left" >
+<img alt="github languages" 
+src="https://github-readme-stats.vercel.app/api?username=oooo-o0&show_icons=true"/>
+<img alt="github stats"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=oooo-o0"/>
+</p>
 
 
 
