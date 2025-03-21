@@ -1,14 +1,7 @@
 ## Profile
 [![Twitter: ________Sui__](https://img.shields.io/twitter/follow/________Sui__?style=social)](https://x.com/________Sui__)
 
-<p align="left">
-  <a href="https://github.com/oooo-o0">
-    <img height="20" src="https://oooo-o0.com/ghpvc/?username=oooo-o0" />
-  </a>
-  <a href="https://github.com/oooo-o0">
-    <img height="20" src="https://img.shields.io/github/followers/oooo-o0?label=follow&logo=github&style=flat" />
-  </a>
-</p>
+
 
 ## GitHub Stats
 
