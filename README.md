@@ -28,9 +28,9 @@
 
 <p align="left" >
 <img alt="github languages" 
-src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=oooo-o0&color=white&pie=false"/>
+src="https://github-readme-stats.vercel.app/api?username=oooo-o0&show_icons=true"/>
 <img alt="github stats"
-src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=oooo-o0&color=white"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=oooo-o0"/>
 </p>
 
 
