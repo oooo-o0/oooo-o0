@@ -21,8 +21,10 @@
 - システム開発・設計が楽しすぎて毎日寝不足の日々.
 
 - 個人ブログに学習内容を投稿中.
+  
+
 ## 個人ブログ
-https://oooo-o0.github.io/
+**Dev Wiki** https://oooo-o0.github.io/
 
 ## GitHub Stats
 
