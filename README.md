@@ -26,11 +26,7 @@
 ## 個人ブログ
 **Dev Wiki** https://oooo-o0.github.io/
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oooo-o0/oooo-o0/master/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oooo-o0/oooo-o0/master/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oooo-o0/oooo-o0/master/img/snake.svg">
-</picture>
+
 
 ## GitHub Stats
 
