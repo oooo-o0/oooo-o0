@@ -1,9 +1,3 @@
-<p align="left" >
-<img alt="github languages" 
-src="https://github-readme-stats.vercel.app/api?username=oooo-o0&show_icons=true"/>
-<img alt="github stats"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=oooo-o0"/>
-</p>
 
 <h1 align="center">
   Hi 👋 I'm Sui 🫧
@@ -29,6 +23,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=oooo-o0"/>
 - 個人ブログに学習内容を投稿中.
 
 ## GitHub Stats
+<p align="left" >
+<img alt="github languages" 
+src="https://github-readme-stats.vercel.app/api?username=oooo-o0&show_icons=true"/>
+<img alt="github stats"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=oooo-o0"/>
+</p>
 
 <p align="left">
   <picture>
@@ -54,7 +54,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=oooo-o0"/>
 
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=oooo-o0)
+![trophy](https://github-profile-trophy.vercel.app/?username=oooo-o0&theme=gruvbox)
 
 <!--
 **oooo-o0/oooo-o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
